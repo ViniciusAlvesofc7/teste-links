@@ -60,9 +60,10 @@ ul{
     list-style: none;
 }
 
-.links-lista{
+.links-lista, a{
     background-color: darkgrey;   
     color: white;
+    text-decoration: none;
     padding: 15px 0;
     margin: 10px auto;
     width: 200px;
